@@ -27,9 +27,29 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/icofonts.css",
+              "src/assets/css/owlcarousel.min.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/navigation.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/style.css",
+              "src/assets/css/responsive.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/js/navigation.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/owl-carousel.2.3.0.min.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/smoothscroll.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,9 +114,29 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/icofonts.css",
+              "src/assets/css/owlcarousel.min.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/navigation.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/style.css",
+              "src/assets/css/responsive.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/js/navigation.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/js/owl-carousel.2.3.0.min.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/smoothscroll.js",
+              "src/assets/js/main.js"
+            ]
           }
         }
       }
